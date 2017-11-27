@@ -14,8 +14,14 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+## Vista general
+
 ![dashboard](assets/images/dash-1.png)
+## Opciones de visualizacion de resultados: Segun sede y segun generacion
+![nav](assets/images/dash-0.png)
+## Vista Local(Lima)
 ![dashboard](assets/images/dash-2.png)
 ![dashboard](assets/images/dash-3.png)
+## Perfil de las alumnas 
 ![dashboard](assets/images/dash-4.png)
 ![dashboard](assets/images/dash-5.png)
