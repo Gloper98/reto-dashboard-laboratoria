@@ -15,4 +15,7 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ![dashboard](assets/images/dash-1.png)
-![elements](assets/images/elements-breathe.png)
+![dashboard](assets/images/dash-2.png)
+![dashboard](assets/images/dash-3.png)
+![dashboard](assets/images/dash-4.png)
+![dashboard](assets/images/dash-5.png)
